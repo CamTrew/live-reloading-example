@@ -1,6 +1,6 @@
 # Live Reloading Example
 
-This repository provides an example of how to implement live reloading in a Go application using CompileDaemon.
+This repository provides an example of how to implement live reloading in a Go application using CompileDaemon. More information can be found on my blog post https://camerontrew.com/blog/live-reloading-your-golang-apps-made-easy-heres-how/.
 
 ## Overview
 
@@ -22,7 +22,7 @@ Follow these steps to run the example:
 1. Clone this repository:
 
 ```
-$ git clone https://github.com/thegodev/live-reloading-example.git
+$ git clone https://github.com/CamTrew/live-reloading-example.git
 ```
    
 2. Change to the project directory:

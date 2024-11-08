@@ -1,4 +1,4 @@
-module github.com/thegodev/live-reloading-example
+module github.com/CamTrew/live-reloading-example
 
 go 1.20
 
